@@ -1,2 +1,2 @@
-# 3-tireArchitecture_PF_LAB
+# 3-tireArchitecture- MERN (Login & Reg)
  this is my PF Lab practical for 3 tire arctitecture
